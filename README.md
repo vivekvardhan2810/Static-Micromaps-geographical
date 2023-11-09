@@ -5,3 +5,4 @@ To create a static micromap, We can follow these steps:
 <p>2) Convert the dataset to a GeoDataFrame with a world map</p>
 <p>3) Plot the static micromap</p>
 <p>4) Add labels and title</p>
+<p>The result is a static micromap that represents the population of selected countries using color-coding on a world map. The countries are labeled, and the plot includes a legend for interpretation.</p>
